@@ -1,0 +1,39 @@
+.friend-container{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    background-color: rgb(231, 231, 239);
+}
+.friend-box{
+    margin-top: 70px;
+
+}
+.fb-container{
+    padding:30px;
+    margin: 10px;
+    background-color: #fff;
+}
+.fb-item{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+.fb-item img{
+    width: 90px;
+    height: 90px;
+    border-radius: 45px;
+}
+.fb-item span{
+    padding-left:10px ;
+    font-size: 18px;
+    font-weight: bold;
+}
+.fb-item button{
+    background-color: #1877f2;
+    border:none;
+    width: 100%;
+    padding:9px 14px;
+    color:white;
+    cursor: pointer;
+    border-radius: 10px;
+}

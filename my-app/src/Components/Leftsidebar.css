@@ -1,0 +1,33 @@
+.left-sidebar{
+    height: 100%;
+    background-color: rgb(239, 241, 245);
+    width:25%;
+    margin: 0px;
+}
+.l-s-heading{
+    text-align: center;
+    font-size: 30px;
+}
+.l-s-contacts{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.l-s-item{
+    display: flex;
+    align-items: center;
+    margin-left:0px ;
+    padding: 15px;
+}
+.l-s-item span{
+    padding-left:5px;
+}
+
+.l-s-item img{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 40px;
+}

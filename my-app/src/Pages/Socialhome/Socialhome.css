@@ -1,0 +1,9 @@
+.social-header{
+    width: 100vw;
+    height: 60px;
+}
+.social-body{
+    display: flex;
+    width: 100%;
+    max-width: 100%;
+}

@@ -1,0 +1,21 @@
+.right-bar{
+    background-color: azure;
+    width: 25%;
+}
+.r-b-user{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.r-b-user img{
+    border-radius: 25px;
+    height: 50px;
+    width: 50px;
+}
+.r-b-user span{
+    padding-left: 10px;
+}
+.r-b-options{
+    width: 25vw;
+    text-align: center;
+}

@@ -1,0 +1,41 @@
+.p-c-container{
+    display: flex;
+    justify-content: center;
+
+}
+.p-c-box{
+    margin: 10px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgb(203, 203, 214);
+}
+.pc-item{
+    display: flex;
+    align-items: center;
+}
+.pc-item i{
+    color:black;
+    font-size: 30px;
+    height: 40px;
+}
+.pc-item span{
+    font-size: 20px;
+    font-weight: bold;
+}
+.p-c-pic{
+    border-radius: 25px;
+    width:50px;
+    height: 50px;
+}
+.p-c-img{
+   width: 45vw;
+   height: 300px;
+}
+.material-symbols-outlined{
+  font-variation-settings:'FILL' 1,
+}
+.like-button{
+    cursor: pointer;
+}
+.like-button i{
+    color:rgb(146, 142, 142);
+}
